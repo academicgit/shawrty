@@ -1,7 +1,7 @@
 {
-  "name": "Suri",
+  "name": "SHAWRTY",
   "description": "Your own link shortener that's easily deployed as a static site (for free)",
-  "repository": "https://github.com/jstayton/suri",
+  "repository": "https://github.com/academicgit/shawrty",
   "keywords": [
     "self hosted",
     "static site",
