@@ -1,10 +1,10 @@
 # Shawrty
 
-Suri is your own link shortener that's easily deployed as a static site. No
-server-side hosting, serverless cloud functions, or database necessary. Suri can
+Shawrty is your own link shortener that's easily deployed as a static site. No
+server-side hosting, serverless cloud functions, or database necessary. Shawrty can
 be deployed to Vercel, Netlify, and more for free in 60 seconds.
 
-Suri doesn't give a 💩 about "technically superior" `3xx` server redirects. Suri
+Shawrty doesn't give a 💩 about "technically superior" `3xx` server redirects. Shawrty
 just wants you to finally use that domain you waste \$39/year on because you've
 never actually done anything with it.
 
@@ -15,12 +15,12 @@ https://twitter.com/kidjustino
 
 ### Install in One Click (for Free)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fjstayton%2Fsuri&project-name=suri&repository-name=suri)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fjstayton%2Fsuri)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fjstayton%2Fsuri)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty&project-name=shawrty&repository-name=shawrty)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fsuri%2Ftree%2Fmaster)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fsuri)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty%2Ftree%2Fmaster)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty)
 
 Once complete, try accessing the root path of your URL – it should redirect back
 to [my GitHub profile](https://github.com/jstayton) if everything's working.
@@ -48,7 +48,7 @@ provider you chose above should automatically build and deploy your change.
 That's it!
 
 _Pro tip_: Bookmark the page to
-[edit `src/links.json` directly in GitHub](https://github.com/jstayton/suri/edit/master/src/links.json)
+[edit `src/links.json` directly in GitHub](https://github.com/jstayton/shawrty/edit/master/src/links.json)
 (or wherever), and use the default commit message that's populated. Now show me
 a link shortener that's easier than that!
 
@@ -63,7 +63,7 @@ point:
 
 ### Install Manually
 
-To install Suri somewhere else, or just on your own machine:
+To install Shawrty somewhere else, or just on your own machine:
 
 1. Fork this repository to create your own copy and clone to your machine.
 
@@ -92,8 +92,8 @@ To install Suri somewhere else, or just on your own machine:
 
 ## Development
 
-The following includes a few instructions for developing on Suri. For
-11ty-specific details – the static site generator that powers Suri – see their
+The following includes a few instructions for developing on Shawrty. For
+11ty-specific details – the static site generator that powers Shawrty – see their
 [docs](https://www.11ty.dev/docs/).
 
 ### Install
@@ -132,4 +132,4 @@ interactively orchestrate the release process:
 $ npm run release
 ```
 
-![piratepx](https://app.piratepx.com/ship?p=e91ddd1b-31ad-4c36-b03e-be4a1e9a7678&i=suri)
+![piratepx](https://app.piratepx.com/ship?p=e91ddd1b-31ad-4c36-b03e-be4a1e9a7678&i=shawrty)
