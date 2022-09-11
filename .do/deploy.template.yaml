@@ -1,9 +1,9 @@
 spec:
-  name: suri
+  name: shawrty
   static_sites:
-    - name: suri
+    - name: shawrty
       git:
-        repo_clone_url: https://github.com/jstayton/suri.git
+        repo_clone_url: https://github.com/academicgit/shawrty.git
         branch: master
       envs:
         - key: SURI_JS
