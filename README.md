@@ -8,22 +8,22 @@ Shawrty doesn't give a 💩 about "technically superior" `3xx` server redirects.
 just wants you to finally use that domain you waste \$39/year on because you've
 never actually done anything with it.
 
-Try it out with one of my own shortlinks: https://jstayton.com/tw 👉🏻
-https://twitter.com/kidjustino
+Try it out with one of my own shortlinks: https://shawrty.com/zarwin 👉🏻
+https://zarwin.is-a.dev
 
 ## Getting Started
 
 ### Install in One Click (for Free)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty&project-name=shawrty&repository-name=shawrty)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty&project-name=shawrty&repository-name=shawrty)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty%2Ftree%2Fmaster)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fjstayton%2Fshawrty)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty%2Ftree%2Fmaster)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Facademicgit%2Fshawrty)
 
 Once complete, try accessing the root path of your URL – it should redirect back
-to [my GitHub profile](https://github.com/jstayton) if everything's working.
+to [my GitHub profile](https://github.com/PARVASHWANI) if everything's working.
 
 ### Manage Links
 
@@ -32,9 +32,8 @@ with a few examples to start:
 
 ```json
 {
-  "/": "https://github.com/jstayton",
-  "1": "https://fee.org/articles/the-use-of-knowledge-in-society/",
-  "tw": "https://twitter.com/kidjustino"
+  "/": "https://github.com/PARVASHWANI",
+  "ig": "https://instagram.com/parv_codes",
 }
 ```
 
@@ -48,7 +47,7 @@ provider you chose above should automatically build and deploy your change.
 That's it!
 
 _Pro tip_: Bookmark the page to
-[edit `src/links.json` directly in GitHub](https://github.com/jstayton/shawrty/edit/master/src/links.json)
+[edit `src/links.json` directly in GitHub](https://github.com/academicgit/shawrty/edit/master/src/links.json)
 (or wherever), and use the default commit message that's populated. Now show me
 a link shortener that's easier than that!
 
