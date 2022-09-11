@@ -1,4 +1,7 @@
-# Shawrty
+<div align="center">
+<a href="https://github.com/academicgit/shawrty"><img src="https://i.ibb.co/z8t3spC/shawrty.jpg" height="200px" width="200px" alt="shawrty" border="0"></a>
+<h2>SHAWRTY</h2>
+</div>
 
 Shawrty is your own link shortener that's easily deployed as a static site. No
 server-side hosting, serverless cloud functions, or database necessary. Shawrty can
