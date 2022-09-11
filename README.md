@@ -8,7 +8,7 @@ Shawrty doesn't give a 💩 about "technically superior" `3xx` server redirects.
 just wants you to finally use that domain you waste \$39/year on because you've
 never actually done anything with it.
 
-Try it out with one of my own shortlinks: https://shawrty.com/zarwin 👉🏻
+Try it out with one of my own shortlinks: https://shawrty.tk/zarwin 👉🏻
 https://zarwin.is-a.dev
 
 ## Getting Started
